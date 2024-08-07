@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    font-family: Montserrat, sans-serif;
+}
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f0f0f0;
+}
+iframe {
+    border: none;
+    width: 80%;
+    height: 80%;
+}
+
+header {
+
+    display: block;
+    align-items: center;
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    border-radius: 5%;
+    border-color: black;
+
+
+
+}
